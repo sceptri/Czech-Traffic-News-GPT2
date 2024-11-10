@@ -1,0 +1,4 @@
+gpt2-small-final/
+gpt2-training/
+.lightning_studio/
+*.csv
